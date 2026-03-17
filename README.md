@@ -27,7 +27,7 @@ This repository contains wallpapers collected from **different sources**:
 Clone the repository to your home directory:
 
 ```bash
-git clone --depth=1 https://github.com/Ajaymanikandan0x/hyprland_wallpapers.git ~/hyprland_wallpapers
+git clone --depth=1 https://codeberg.org/ajay_manikandan/hyprland_wallpapers.git ~/hyprland_wallpapers
 cd ~/hyprland_wallpapers
 ```
 
