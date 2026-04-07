@@ -39,8 +39,4 @@ cd ~/hyprland_wallpapers
 * This is a **curated collection** for personal and community use.
 * If any image requires **credit or removal**, please open an issue.
 
----
 
-## ⭐ Contributing
-
-If you have wallpapers that match the **Hyprland aesthetic**, feel free to open a **pull request**.
