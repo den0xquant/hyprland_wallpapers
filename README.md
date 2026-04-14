@@ -40,6 +40,3 @@ cd ~/hyprland_wallpapers
 
 ---
 
-## ⭐ Contributing
-
-If you have wallpapers that match the **Hyprland aesthetic**, feel free to open a **pull request**.
