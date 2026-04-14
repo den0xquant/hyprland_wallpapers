@@ -31,7 +31,6 @@ git clone --depth=1 https://codeberg.org/ajay_manikandan/hyprland_wallpapers.git
 cd ~/hyprland_wallpapers
 ```
 
----
 
 ## ⚠️ Notes
 
